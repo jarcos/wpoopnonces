@@ -8,4 +8,4 @@ This is a small library that can helps you to deal with WordPress Nonces in an O
 
 #License
 
-[license](GPL v3.0)
+[http://github.com/jarcos/wpoopnonces/license](GPL v3.0)
