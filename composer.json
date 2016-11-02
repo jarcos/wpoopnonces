@@ -1,5 +1,17 @@
 {
   "name": "jarcos/wpoopnonces",
+  "description": "WordPress Nonces in a Object Oriented environment",
+  "type": "package",
+  "license": "GPL v3.0",
+  "authors": [
+    {
+      "name": "Jose Arcos",
+      "email": "hello@josearcos.me",
+    }
+  ],
+  "require": {
+    "php": "7.1"
+  },
   "require-dev": {
     "phpunit/phpunit": "5.6"
   }
