@@ -1,7 +1,6 @@
 WordPress Object Oriented Nonces
 ======
-______
-WordPress Nonces in a Object Oriented environment
+WordPress Nonces in a Object Oriented environment.
 ______
 #Description
 
